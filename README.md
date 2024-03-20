@@ -28,8 +28,6 @@ Installation
 Support
 For any inquiries or assistance regarding the Flex UI Blogger theme, feel free to contact the developer, Rahul Kumar Chauhan, at [rahulkrchauhan4@gmail.com](mailto:rahulkrchauhan4@gmail.com).
 
-License
-This theme is licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute the theme for personal and commercial projects. However, attribution to the original developer is appreciated. See the `LICENSE` file for more details.
 
 Credits
 Special thanks to the following resources used in the development of the Flex UI Blogger theme:
